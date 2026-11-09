@@ -1,0 +1,30 @@
+Column,Description,Category
+ID,Unique customer identification number,Customer Identification
+Year_Birth,Customer's year of birth,Demographics
+Education,Customer's education level,Demographics
+Marital_Status,Customer's marital status,Demographics
+Income,Customer's yearly household income,Household Information
+Kidhome,Number of small children in the household,Household Information
+Teenhome,Number of teenagers in the household,Household Information
+Dt_Customer,Date when the customer enrolled with the company,Customer Relationship
+Recency,Number of days since the customer's last purchase,Customer Relationship
+MntWines,Amount spent on wine products,Product Spending
+MntFruits,Amount spent on fruit products,Product Spending
+MntMeatProducts,Amount spent on meat products,Product Spending
+MntFishProducts,Amount spent on fish products,Product Spending
+MntSweetProducts,Amount spent on sweet products,Product Spending
+MntGoldProds,Amount spent on gold products,Product Spending
+NumDealsPurchases,Number of purchases made using discounts,Purchase Behaviour
+NumWebPurchases,Number of purchases made through the website,Purchase Behaviour
+NumCatalogPurchases,Number of purchases made through the catalogue,Purchase Behaviour
+NumStorePurchases,Number of purchases made in physical stores,Purchase Behaviour
+NumWebVisitsMonth,Number of website visits in the last month,Purchase Behaviour
+AcceptedCmp3,Whether customer accepted campaign 3,Marketing Campaigns
+AcceptedCmp4,Whether customer accepted campaign 4,Marketing Campaigns
+AcceptedCmp5,Whether customer accepted campaign 5,Marketing Campaigns
+AcceptedCmp1,Whether customer accepted campaign 1,Marketing Campaigns
+AcceptedCmp2,Whether customer accepted campaign 2,Marketing Campaigns
+Complain,Whether customer made a complaint,Customer Feedback
+Z_CostContact,Constant contact-cost variable in the dataset,Constant Variables
+Z_Revenue,Constant revenue variable in the dataset,Constant Variables
+Response,Whether customer accepted the latest campaign,Marketing Campaigns

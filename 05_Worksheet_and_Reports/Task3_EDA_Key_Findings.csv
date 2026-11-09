@@ -1,0 +1,13 @@
+Finding_Number,EDA_Finding
+1,The customer base is concentrated around the 45–55 age group.
+2,Graduation is the most common education category.
+3,Married customers form the largest marital-status group.
+4,Income distribution contains a few unusually high values.
+5,Customer total spending is positively skewed.
+6,Income has a positive correlation with total spending (0.66).
+7,Wines are the highest-spending product category.
+8,Meat products are the second-highest-spending category.
+9,Store purchases are the most frequently used shopping channel.
+10,Website visits do not necessarily translate into more web purchases.
+11,Total spending has a strong correlation with wine spending (0.89).
+12,Recency has weak correlations with most numerical attributes.
